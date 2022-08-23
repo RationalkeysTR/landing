@@ -9,19 +9,5 @@
         "name": "SAM TOYS TASARIM ELEKTRONİK LİMİTED ŞİRKETİ"
     },
     "items": [
-        {
-            "id": "https://github.com/RationalkeysTR/landing.git/test-sayfasi-olusturuyorum.html",
-            "url": "https://github.com/RationalkeysTR/landing.git/test-sayfasi-olusturuyorum.html",
-            "title": "Test sayfası oluşturuyorum.",
-            "summary": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://github.com/RationalkeysTR/landing.git/media/posts/1/19.png\" sizes=\"100vw\" srcset=\"https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-xs.png 300w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-sm.png 480w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-md.png 768w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-lg.png 1024w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-xl.png 1360w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-2xl.png 1600w\"  height=\"918\" width=\"1632\" alt=\"\" />\n      <figcaption>Deneme görseli</figcaption>\n    </figure>\n<hr class=\"separator separator--dots\" />\n",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://github.com/RationalkeysTR/landing.git/media/posts/1/19.png\" sizes=\"100vw\" srcset=\"https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-xs.png 300w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-sm.png 480w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-md.png 768w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-lg.png 1024w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-xl.png 1360w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-2xl.png 1600w\"  height=\"918\" width=\"1632\" alt=\"\" />\n      <figcaption>Deneme görseli</figcaption>\n    </figure>\n<hr class=\"separator separator--dots\" />\n\n\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "SAM TOYS TASARIM ELEKTRONİK LİMİTED ŞİRKETİ"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-08-23T10:51:10+03:00",
-            "date_modified": "2022-08-23T10:51:10+03:00"
-        }
     ]
 }
