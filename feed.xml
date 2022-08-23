@@ -3,10 +3,31 @@
     <title>Rationalkeys.com.tr</title>
     <link href="https://www.rationalkeys.com.tr/feed.xml" rel="self" />
     <link href="https://www.rationalkeys.com.tr" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2022-08-23T11:54:44+03:00</updated>
     <author>
         <name>Rationalkeys.com.tr</name>
     </author>
     <id>https://www.rationalkeys.com.tr</id>
 
+    <entry>
+        <title>Çevrimiçi mağazalarımızı ziyaret edin.</title>
+        <author>
+            <name>Rationalkeys.com.tr</name>
+        </author>
+        <link href="https://www.rationalkeys.com.tr/cevrimici-magazalarimizi-ziyaret-edin/"/>
+        <id>https://www.rationalkeys.com.tr/cevrimici-magazalarimizi-ziyaret-edin/</id>
+
+        <updated>2022-08-23T11:54:44+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Amazon.com.tr mağazamız için tıklayın. Trendyol mağazamız için tıklayın.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">Amazon.com.tr mağazamız için <a href="https://www.amazon.com.tr/s?me=A1656HRQOTACHO&amp;marketplaceID=A33AVAJ2PDY3EV" target="_blank" rel="noopener noreferrer">tıklayın</a>.</p>
+<p class="align-center">Trendyol mağazamız için <a href="www.trendyol.com/magaza/rationalkeys-m-482903" target="_blank" rel="noopener noreferrer">tıklayın</a>.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

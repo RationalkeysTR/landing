@@ -9,5 +9,19 @@
         "name": "Rationalkeys.com.tr"
     },
     "items": [
+        {
+            "id": "https://www.rationalkeys.com.tr/cevrimici-magazalarimizi-ziyaret-edin/",
+            "url": "https://www.rationalkeys.com.tr/cevrimici-magazalarimizi-ziyaret-edin/",
+            "title": "Çevrimiçi mağazalarımızı ziyaret edin.",
+            "summary": "Amazon.com.tr mağazamız için tıklayın. Trendyol mağazamız için tıklayın.",
+            "content_html": "<p class=\"align-center\">Amazon.com.tr mağazamız için <a href=\"https://www.amazon.com.tr/s?me=A1656HRQOTACHO&amp;marketplaceID=A33AVAJ2PDY3EV\" target=\"_blank\" rel=\"noopener noreferrer\">tıklayın</a>.</p>\n<p class=\"align-center\">Trendyol mağazamız için <a href=\"www.trendyol.com/magaza/rationalkeys-m-482903\" target=\"_blank\" rel=\"noopener noreferrer\">tıklayın</a>.</p>",
+            "author": {
+                "name": "Rationalkeys.com.tr"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-23T11:54:29+03:00",
+            "date_modified": "2022-08-23T11:54:44+03:00"
+        }
     ]
 }
