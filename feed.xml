@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Rationalkeys.com.tr</title>
-    <link href="https://github.com/RationalkeysTR/landing.git/feed.xml" rel="self" />
-    <link href="https://github.com/RationalkeysTR/landing.git" />
+    <link href="https://www.rationalkeys.com.tr/feed.xml" rel="self" />
+    <link href="https://www.rationalkeys.com.tr" />
     <updated>1970-01-01T02:00:00+02:00</updated>
     <author>
         <name>SAM TOYS TASARIM ELEKTRONİK LİMİTED ŞİRKETİ</name>
     </author>
-    <id>https://github.com/RationalkeysTR/landing.git</id>
+    <id>https://www.rationalkeys.com.tr</id>
 
 </feed>

@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Rationalkeys.com.tr",
     "description": "",
-    "home_page_url": "https://github.com/RationalkeysTR/landing.git",
-    "feed_url": "https://github.com/RationalkeysTR/landing.git/feed.json",
+    "home_page_url": "https://www.rationalkeys.com.tr",
+    "feed_url": "https://www.rationalkeys.com.tr/feed.json",
     "user_comment": "",
     "author": {
         "name": "SAM TOYS TASARIM ELEKTRONİK LİMİTED ŞİRKETİ"
