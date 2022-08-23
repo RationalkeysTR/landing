@@ -3,10 +3,46 @@
     <title>Rationalkeys.com.tr</title>
     <link href="https://github.com/RationalkeysTR/landing.git/feed.xml" rel="self" />
     <link href="https://github.com/RationalkeysTR/landing.git" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2022-08-23T10:51:10+03:00</updated>
     <author>
         <name>SAM TOYS TASARIM ELEKTRONİK LİMİTED ŞİRKETİ</name>
     </author>
     <id>https://github.com/RationalkeysTR/landing.git</id>
 
+    <entry>
+        <title>Test sayfası oluşturuyorum.</title>
+        <author>
+            <name>SAM TOYS TASARIM ELEKTRONİK LİMİTED ŞİRKETİ</name>
+        </author>
+        <link href="https://github.com/RationalkeysTR/landing.git/test-sayfasi-olusturuyorum.html"/>
+        <id>https://github.com/RationalkeysTR/landing.git/test-sayfasi-olusturuyorum.html</id>
+
+        <updated>2022-08-23T10:51:10+03:00</updated>
+            <summary>
+                <![CDATA[
+                    
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://github.com/RationalkeysTR/landing.git/media/posts/1/19.png" sizes="100vw" srcset="https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-xs.png 300w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-sm.png 480w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-md.png 768w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-lg.png 1024w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-xl.png 1360w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-2xl.png 1600w"  height="918" width="1632" alt="" />
+      <figcaption>Deneme görseli</figcaption>
+    </figure>
+<hr class="separator separator--dots" />
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://github.com/RationalkeysTR/landing.git/media/posts/1/19.png" sizes="100vw" srcset="https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-xs.png 300w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-sm.png 480w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-md.png 768w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-lg.png 1024w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-xl.png 1360w ,https://github.com/RationalkeysTR/landing.git/media/posts/1/responsive/19-2xl.png 1600w"  height="918" width="1632" alt="" />
+      <figcaption>Deneme görseli</figcaption>
+    </figure>
+<hr class="separator separator--dots" />
+
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
